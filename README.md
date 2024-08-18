@@ -1,1 +1,1 @@
-# shigure: Rust frontend application framework.
+# shigure: Wasm Frontend application framework.
