@@ -7,3 +7,4 @@ edition = "2021"
 description = "Wasm frontend framework"
 
 [dependencies]
+futures-util = { workspace = true }

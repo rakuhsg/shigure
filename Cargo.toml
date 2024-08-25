@@ -6,3 +6,7 @@ members = [
 
 [workspace.package]
 version = "0.0.1-pre.1"
+
+[workspace.dependencies]
+futures-util = "0.3"
+tower-service = "0.3"
