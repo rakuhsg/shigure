@@ -1,1 +1,1 @@
-# shigure: Wasm Frontend application framework.
+# shigure: Wasm frontend application framework.
