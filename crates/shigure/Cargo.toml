@@ -1,6 +1,9 @@
 [package]
 name = "shigure"
-version = "0.1.0"
+version = { workspace = true }
+license = "Apache-2.0"
+authors = [ "Hasegawa Raku <raku@exhibition.jp>" ]
 edition = "2021"
+description = "Wasm frontend framework"
 
 [dependencies]

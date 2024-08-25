@@ -1,5 +1,8 @@
 [workspace]
 resolver = "2"
 members = [
-  "crates/shigure",
+  "crates/shigure", "crates/shigure-dom",
 ]
+
+[workspace.package]
+version = "0.0.1-pre.1"
